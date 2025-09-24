@@ -175,6 +175,8 @@ Open a Pull Request
 
 📜 License
 This project is licensed under the MIT License.
-
+#Support
+For queries contact
+email-snigdhasaha.student@gmail.com
 
 
